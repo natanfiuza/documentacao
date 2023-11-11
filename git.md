@@ -2,8 +2,8 @@
 
 ## Tabela de Conteúdos
   
-    - [Criar chave ssh](#criar-chave-ssh)
-    - [WARNING: UNPROTECTED PRIVATE KEY FILE](#warning-unprotected-private-key-file)
+- [Criar chave ssh](#criar-chave-ssh)
+- [WARNING: UNPROTECTED PRIVATE KEY FILE](#warning-unprotected-private-key-file)
   
 
 ### Criar chave ssh 
