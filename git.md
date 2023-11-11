@@ -9,7 +9,16 @@
 ### Criar chave ssh 
 **[⬆ Topo](#tabela-de-conteúdos)**
 
-Para criar uma chave ssh para acesso ao git
+Para criar uma chave ssh de acesso ao git via SSH e necessário criar utilizando o comando abaixo:
+
+```bash
+ssh-keygen -t ed25519 -C "contato@natanfiuza.dev.br"
+```
+Siga os passos e informe a senha caso necessário apos isso um arquivo com a chave será gerado em:
+```bash
+/home/natanfiuza/.ssh/ed25519.pub
+```
+Abrae cole o conteúdo em `Github -> Settings -> SSH and GPG keys`  
 
 ### WARNING: UNPROTECTED PRIVATE KEY FILE
 **[⬆ Topo](#tabela-de-conteúdos)**
