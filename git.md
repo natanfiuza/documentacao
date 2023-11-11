@@ -9,7 +9,7 @@
 ### Criar chave ssh 
 **[⬆ Topo](#tabela-de-conteúdos)**
 
-Para criar uma chave ssh de acesso ao git via SSH e necessário criar utilizando o comando abaixo:
+Para criar uma chave ssh de acesso ao GitHub via SSH e necessário criar utilizando o comando abaixo:
 
 ```bash
 ssh-keygen -t ed25519 -C "contato@natanfiuza.dev.br"
