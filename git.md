@@ -1,15 +1,15 @@
 # GIT
 
 ## Tabela de Conteúdos
-- [GIT](#git)
-  - [Tabela de Conteúdos](#tabela-de-conteúdos)
+  
     - [Criar chave ssh](#criar-chave-ssh)
     - [WARNING: UNPROTECTED PRIVATE KEY FILE](#warning-unprotected-private-key-file)
   
 
 ### Criar chave ssh 
+**[⬆ Topo](#tabela-de-conteúdos)**
 
-Para criar uma chave ssh para acesso ao 
+Para criar uma chave ssh para acesso ao git
 
 ### WARNING: UNPROTECTED PRIVATE KEY FILE
 **[⬆ Topo](#tabela-de-conteúdos)**
