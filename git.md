@@ -52,7 +52,17 @@ Se você estiver recebendo outro erro como:
 Are you sure you want to continue connecting (yes/no)? yes
 Failed to add the host to the list of known hosts (/home/natanfiuza/.ssh/known_hosts).
 ```
+
 Você deve mudar as permissões do arquivo:
 ```bash
 sudo chmod 644 ~/.ssh/known_hosts
+```
+
+### Mudar branch padrão
+
+```bash
+git branch -m master main
+git fetch origin
+git branch -u origin/main main
+git remote set-head origin -a
 ```
